@@ -1,4 +1,4 @@
-# js-exercises
+# My Solutions to Some JavaScript Exercises
 
 **My solution to javascript exercises in Exercism.io,Codewars, FreeCodeCamp like coding exercise sites**
 
